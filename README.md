@@ -7,7 +7,7 @@ Image Watermarker is a Python program that allows you to add a text watermark to
 - Add a customizable text watermark to images.
 - Customize watermark, color, size, and font.
 - Supports various image format.
-- Easy to install on Windows [Download](exe.zip) and archive
+- Easy to install on Windows [Download Zip](https://github.com/GiorgiMakh/image-watermarker/raw/main/exe.zip) and archive
 
 ## Installation
 
